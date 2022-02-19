@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\starr\OneDrive\Área de Trabalho\Processo seletivo\.metadata\.plugins\org.eclipse.jdt.core
+551064098.index
+1391314439.index
+1865797976.index
