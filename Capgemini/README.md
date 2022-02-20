@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Academia Capgemini 2022</h1>
 
-<p align="center">Programas desenvolvidos em linguagem Java para a terceira etapa do processo seletivo da Academia Capgemini 2022.</p>
+<p align="center">Algoritomos desenvolvidos em linguagem Java.</p>
 
 
 ## Preparação
