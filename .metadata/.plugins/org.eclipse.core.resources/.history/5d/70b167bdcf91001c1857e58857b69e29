@@ -1,0 +1,46 @@
+package desafio2;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+class senhaForteTest {
+
+	@Test
+	void test() {
+		
+	}
+		@Test
+		@DisplayName ("retornaDois")
+		void retornaDois() {
+			String senha = "2222";
+			senhaForteAux senhaOk = new senhaForteAux();
+			assertEquals(2, senhaOk.verifica(senha));
+		}
+		
+//		@Test
+//		@DisplayName("retornaZero")
+//		void retornaZero() {
+//			String str = "123@aB";
+//			senhaForte senha = new senhaForte();
+//			assertEquals(0, senhaForte.VefificarParametrosDaSenha(str));
+//		}
+//		
+//		@Test
+//		@DisplayName("FaltaDoisCaracteres")
+//		void FaltaDoisCaracteres() {
+//			String str = "3@aB";
+//			senhaForte senha = new senhaForte();
+//			assertEquals(2, senhaForte.VefificarParametrosDaSenha(str));
+//		}
+//		
+//		@Test
+//		@DisplayName("FaltaTresCaracteres")
+//		void FaltaTresCaracteres() {
+//			String str = "Ya3";
+//			senhaForte senha = new senhaForte();
+//			assertEquals(3, senha.VefificarParametrosDaSenha(str));
+//	}
+
+}

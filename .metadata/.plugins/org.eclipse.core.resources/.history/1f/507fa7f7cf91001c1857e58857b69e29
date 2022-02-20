@@ -1,0 +1,42 @@
+package desafio2;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+class senhaForteTest {
+
+	@Test
+	@DisplayName("FaltaTresCaracteres")
+	void FaltaTresCaracteres() {
+		String senha = "Ya3";
+		senhaForteAux senhaOk = new senhaForteAux();
+		assertEquals(3, senhaOk.verifica(senha));
+	}
+
+	@Test
+	@DisplayName("retornaDois")
+	void retornaDois() {
+		String senha = "1998";
+		senhaForteAux senhaOk = new senhaForteAux();
+		assertEquals(1, senhaOk.verifica(senha));
+	}
+
+	@Test
+	@DisplayName("retornaZero")
+	void retornaZero() {
+		String senha = "Abc@12";
+		senhaForteAux senhaOk = new senhaForteAux();
+		assertEquals(0, senhaOk.verifica(senha));
+	}
+
+	@Test
+	@DisplayName("FaltaDoisCaracteres")
+	void FaltaDoisCaracteres() {
+		String senha = "Ab1!";
+		senhaForteAux senhaOk = new senhaForteAux();
+		assertEquals(2, senhaOk.verifica(senha));
+	}
+
+}

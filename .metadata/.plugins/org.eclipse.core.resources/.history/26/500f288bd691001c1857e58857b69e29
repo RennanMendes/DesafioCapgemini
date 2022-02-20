@@ -1,0 +1,22 @@
+package desafio1;
+
+public class EscadaAux {
+	
+	public void imprime(int n) {
+		
+		for (int cont = 1; cont <= n; cont++) {
+
+			for (int espaco = n - cont; espaco >= 0; espaco--) {
+				System.out.print(" ");
+			}
+
+			for (int imprime = cont; imprime > 0; imprime--) {
+				System.out.print("*");
+			}
+
+			System.out.print("\n");
+		}
+		
+	}
+
+}

@@ -1,0 +1,44 @@
+package desafio1;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class Escada {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+
+		int n = 0;
+
+		try {
+			System.out.print("Digite o valor da base do triangulo ");
+			n = in.nextInt();
+
+			if (n < 0) {
+				System.out.println("Entrada inválida, digite um número inteiro!");
+			}
+
+		} catch (InputMismatchException e) {
+			System.out.println("Entrada inválida, digite um número inteiro!");
+		}
+
+		in.close();
+
+//		System.out.print("\n");
+//
+//		for (int cont = 1; cont <= n; cont++) {
+//
+//			for (int espaco = n - cont; espaco >= 0; espaco--) {
+//				System.out.print(" ");
+//			}
+//
+//			for (int imprime = cont; imprime > 0; imprime--) {
+//				System.out.print("*");
+//			}
+//
+//			System.out.print("\n");
+//		}
+
+	}
+
+}

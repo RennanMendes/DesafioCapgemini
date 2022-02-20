@@ -1,0 +1,27 @@
+package desafio2;
+
+import java.util.Scanner;
+
+//@brief ->  Esta função é responsável pelo recebimento de dados e chamar 
+//sua subfunção "verifica" que fará a verificação dos dados.
+
+//@param -> O usuário é responsável pela entrada de dados que são armazenados na variável "senha" do tipo String. 
+//Estes dados serão enviados para a subfunção “verifica”, responsável por verificar os elementos da senha e informar
+//se a senha é forte ou quantos caracteres faltam para que seja.
+
+public class SenhaForte {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		SenhaForteAux forte = new SenhaForteAux();
+
+		String senha;
+
+		System.out.println("Digite a senha: ");
+		senha = in.nextLine();
+		in.close();
+
+		System.out.println(forte.verifica(senha));
+
+	}
+}

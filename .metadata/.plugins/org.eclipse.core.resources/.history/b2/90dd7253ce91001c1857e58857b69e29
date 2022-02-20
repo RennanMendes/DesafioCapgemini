@@ -1,0 +1,22 @@
+package desafio2;
+
+import java.util.Scanner;
+
+public class senhaForte {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		senhaForteAux forte = new senhaForteAux();
+
+
+		String senha;
+
+
+		System.out.println("Digite a senha: ");
+		senha = in.nextLine();
+		in.close();
+		
+		System.out.println(forte.verifica(senha));
+
+	}
+}

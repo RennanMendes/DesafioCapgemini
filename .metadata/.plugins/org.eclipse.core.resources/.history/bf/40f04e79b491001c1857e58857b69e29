@@ -1,0 +1,28 @@
+package desafio3;
+
+
+import java.util.Scanner;
+
+public class Anagrama {
+
+	public static void main(String[] args) {
+		
+		Scanner in = new Scanner(System.in);
+		AnagramaAux sub = new AnagramaAux();
+		
+		String palavra;
+		
+//------------------------------------------------------Entrada de dados ------------------------------------------------------------------------------------------
+
+//Responsavel por receber os dados e chamar as funções que irao trabalhar com as sub strings e contar os anagramas pares;
+
+		System.out.println("Digite uma palavra:");
+		palavra = in.nextLine();
+		in.close();
+		
+		sub.subString(palavra);
+		System.out.println(sub.contador(sub.subString(palavra)));
+
+	}
+
+}

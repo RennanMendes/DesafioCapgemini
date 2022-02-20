@@ -1,0 +1,32 @@
+package desafio3;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+class AnagramaTest {
+
+	@Test
+	@DisplayName("temQueRetornarZero")
+	void retornarZero() {
+		AnagramaAux anagrama = new AnagramaAux();
+		String palavra = "abc";
+		assertEquals(0, anagrama.contador(anagrama.subString(palavra)));
+	}
+	
+//	@Test
+//	@DisplayName("temQueRetornarDois")
+//	void temQueRetornarDois() {
+//		StringUtils c = new StringUtils();
+//		assertEquals(2, c.compararSubstring(c.geradorNSubstring("ovo")));
+//	}
+//	
+//	@Test
+//	@DisplayName("temQueRetornarTres")
+//	void temQueRetornarTres() {
+//		StringUtils c = new StringUtils();
+//		assertEquals(3, c.compararSubstring(c.geradorNSubstring("ifailuhkqq")));
+//	}
+
+}

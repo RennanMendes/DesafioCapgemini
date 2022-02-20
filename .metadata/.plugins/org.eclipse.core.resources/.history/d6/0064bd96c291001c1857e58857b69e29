@@ -1,0 +1,34 @@
+package desafio3;
+
+// @brief -> Trata-se da função principal, ou seja, a primeira função a ser executada.
+// Esta função é responsável pelo recebimento de dados e chamar suas subfunções  subString e contador,
+// que irão realizar o tratamento dos dados.
+
+// @param -> O usuário é responsável pela entrada de dados que são armazenados na variável palavra do tipo String. 
+// Estes dados serão enviados para a subfunção “subString” responsável por realizar o tratamento de dados. Os mesmos 
+// serão retornados em um ArrayList e enviados para a subfunção “contador”, a qual retornará o maior 
+// número possível de anagramas pares.
+
+import java.util.Scanner;
+
+public class Anagrama {
+
+	public static void main(String[] args) {
+
+		Scanner in = new Scanner(System.in);
+		AnagramaAux sub = new AnagramaAux();
+
+		String palavra;
+
+		System.out.println("Digite uma palavra:");
+		palavra = in.nextLine();
+		in.close();
+		
+		
+
+		sub.subString(palavra.toLowerCase());
+		System.out.println(sub.contador(sub.subString(palavra)));
+
+	}
+
+}
