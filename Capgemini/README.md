@@ -2,16 +2,6 @@
 
 <p align="center">Programas desenvolvidos em linguagem Java para a terceira etapa do processo seletivo da Academia Capgemini 2022.</p>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#instalação">Instalação</a> • 
- <a href="#execução">Instalação</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#documentação-do-sistema">Documentação e Questão 1</a> •
- <a href="#questão-2">Questão 2</a> •
- <a href="#questão-3">Questão 3</a> •
- <a href="#autor">Autor</a>
-</p> 
 
 ## Preparação
 
