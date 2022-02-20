@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_ZoXpkZGrEeyhLIvx9YS27g" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ZoXpkpGrEeyhLIvx9YS27g" bindingContexts="_ZoXpm5GrEeyhLIvx9YS27g">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AnagramaAux.java&quot; tooltip=&quot;Capgemini/src/desafio3/AnagramaAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/AnagramaAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Anagrama.java&quot; tooltip=&quot;Capgemini/src/desafio3/Anagrama.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/Anagrama.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SenhaForteAux.java&quot; tooltip=&quot;Capgemini/src/desafio2/SenhaForteAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/SenhaForteAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SenhaForteTest.java&quot; tooltip=&quot;Capgemini/src/desafio2/SenhaForteTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/SenhaForteTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SenhaForte.java&quot; tooltip=&quot;Capgemini/src/desafio2/SenhaForte.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/SenhaForte.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Escada.java&quot; tooltip=&quot;Capgemini/src/desafio1/Escada.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio1/Escada.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;senhaForteTest.java&quot; tooltip=&quot;Capgemini/src/desafio2/senhaForteTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/senhaForteTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EscadaAux.java&quot; tooltip=&quot;Capgemini/src/desafio1/EscadaAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio1/EscadaAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AnagramaTest.java&quot; tooltip=&quot;Capgemini/src/desafio3/AnagramaTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/AnagramaTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;senhaForte.java&quot; tooltip=&quot;Capgemini/src/desafio2/senhaForte.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/senhaForte.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;senhaForteAux.java&quot; tooltip=&quot;Capgemini/src/desafio2/senhaForteAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/senhaForteAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Scanner.class&quot; tooltip=&quot;java.util.Scanner&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Capgemini/C:\/Users\/starr\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&amp;lt;java.util(Scanner.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;anagrama.java&quot; tooltip=&quot;Capgemini/src/desafio3/anagrama.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/anagrama.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Anagrama.java&quot; tooltip=&quot;Capgemini/src/desafio3/Anagrama.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/Anagrama.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AnagramaAux.java&quot; tooltip=&quot;Capgemini/src/desafio3/AnagramaAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/AnagramaAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SenhaForteAux.java&quot; tooltip=&quot;Capgemini/src/desafio2/SenhaForteAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/SenhaForteAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SenhaForteTest.java&quot; tooltip=&quot;Capgemini/src/desafio2/SenhaForteTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/SenhaForteTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SenhaForte.java&quot; tooltip=&quot;Capgemini/src/desafio2/SenhaForte.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/SenhaForte.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Escada.java&quot; tooltip=&quot;Capgemini/src/desafio1/Escada.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio1/Escada.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;senhaForteTest.java&quot; tooltip=&quot;Capgemini/src/desafio2/senhaForteTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/senhaForteTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EscadaAux.java&quot; tooltip=&quot;Capgemini/src/desafio1/EscadaAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio1/EscadaAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AnagramaTest.java&quot; tooltip=&quot;Capgemini/src/desafio3/AnagramaTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/AnagramaTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;senhaForte.java&quot; tooltip=&quot;Capgemini/src/desafio2/senhaForte.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/senhaForte.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;senhaForteAux.java&quot; tooltip=&quot;Capgemini/src/desafio2/senhaForteAux.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio2/senhaForteAux.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Scanner.class&quot; tooltip=&quot;java.util.Scanner&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Capgemini/C:\/Users\/starr\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/&amp;lt;java.util(Scanner.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;anagrama.java&quot; tooltip=&quot;Capgemini/src/desafio3/anagrama.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Capgemini/src/desafio3/anagrama.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_ZoXpkpGrEeyhLIvx9YS27g" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Z19ZopGrEeyhLIvx9YS27g" label="%trimmedwindow.label.eclipseSDK" x="243" y="5" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
@@ -199,10 +199,9 @@
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.viewSC:org.eclipse.jdt.junit.ResultView</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_q-QcsZG-EeyhLIvx9YS27g" selectedElement="_q-QcspG-EeyhLIvx9YS27g" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_q-QcsZG-EeyhLIvx9YS27g" selectedElement="_q-QcuJG-EeyhLIvx9YS27g" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_q-QcspG-EeyhLIvx9YS27g" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView" containerData="2500" selectedElement="_q-QctJG-EeyhLIvx9YS27g">
               <tags>org.eclipse.e4.primaryNavigationStack</tags>
-              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_q-Qcs5G-EeyhLIvx9YS27g" elementId="org.eclipse.debug.ui.DebugView" toBeRendered="false" ref="_q-JvAJG-EeyhLIvx9YS27g" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:Debug</tags>
@@ -224,7 +223,7 @@
                 <tags>categoryTag:Java</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_q-QcuJG-EeyhLIvx9YS27g" containerData="7500" selectedElement="_q-QcuZG-EeyhLIvx9YS27g">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_q-QcuJG-EeyhLIvx9YS27g" containerData="7500" selectedElement="_q-Qcw5G-EeyhLIvx9YS27g">
               <children xsi:type="basic:PartSashContainer" xmi:id="_q-QcuZG-EeyhLIvx9YS27g" containerData="7551" selectedElement="_q-QcupG-EeyhLIvx9YS27g" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_q-QcupG-EeyhLIvx9YS27g" elementId="org.eclipse.ui.editorss" containerData="6500" ref="_Z8jJ0JGrEeyhLIvx9YS27g"/>
                 <children xsi:type="basic:PartStack" xmi:id="_q-Qcu5G-EeyhLIvx9YS27g" elementId="org.eclipse.debug.internal.ui.OutlineFolderView" visible="false" containerData="3500" selectedElement="_q-QcvJG-EeyhLIvx9YS27g">
@@ -261,6 +260,7 @@
                 </children>
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_q-Qcw5G-EeyhLIvx9YS27g" elementId="org.eclipse.debug.internal.ui.ToolsFolderView" containerData="2449" selectedElement="_q-QcxJG-EeyhLIvx9YS27g">
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_q-QcxJG-EeyhLIvx9YS27g" elementId="org.eclipse.ui.console.ConsoleView" ref="_Z8qekpGrEeyhLIvx9YS27g" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -343,9 +343,15 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_Z8jJ0JGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.editorss" selectedElement="_Z8jJ0ZGrEeyhLIvx9YS27g">
-      <children xsi:type="basic:PartStack" xmi:id="_Z8jJ0ZGrEeyhLIvx9YS27g" elementId="org.eclipse.e4.primaryDataStack">
+      <children xsi:type="basic:PartStack" xmi:id="_Z8jJ0ZGrEeyhLIvx9YS27g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_GfMuwJH3EeyiMb3-2YgMzg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <children xsi:type="basic:Part" xmi:id="_GfMuwJH3EeyiMb3-2YgMzg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Anagrama.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Anagrama.java&quot; partName=&quot;Anagrama.java&quot; title=&quot;Anagrama.java&quot; tooltip=&quot;Capgemini/src/desafio3/Anagrama.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Capgemini/src/desafio3/Anagrama.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Z8opYJGrEeyhLIvx9YS27g" elementId="org.eclipse.jdt.ui.PackageExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Package Explorer" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/package.png" tooltip="" closeable="true">
@@ -369,11 +375,9 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_Z8p3gZGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1645292591541&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_4d_Q4JHBEeyhLIvx9YS27g" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -416,6 +420,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_bRTg0JGsEeyhLIvx9YS27g" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -573,7 +579,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Z3PMAJGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Z3TdcJGrEeyhLIvx9YS27g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ZoxSeJGrEeyhLIvx9YS27g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_DrhGMJH3EeyiMb3-2YgMzg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ZoxSeJGrEeyhLIvx9YS27g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Z3PMAZGrEeyhLIvx9YS27g" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -595,7 +601,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_Z9lEkJGrEeyhLIvx9YS27g" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_vOak8JGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_vOak8JGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Z3PzE5GrEeyhLIvx9YS27g" elementId="group.nav" toBeRendered="false">
@@ -604,7 +610,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Z3PzFZGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Z3UrkJGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_ZowrUZGrEeyhLIvx9YS27g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_DrkwkJH3EeyiMb3-2YgMzg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ZowrUZGrEeyhLIvx9YS27g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Z3PzFpGrEeyhLIvx9YS27g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2427,7 +2433,7 @@
   <addons xmi:id="_ZoXpp5GrEeyhLIvx9YS27g" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_ZoXpqJGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_ZodwMJGrEeyhLIvx9YS27g" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_DZ9cIZH3EeyiMb3-2YgMzg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_ZosZsJGrEeyhLIvx9YS27g" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_ZosZsZGrEeyhLIvx9YS27g" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
